@@ -9,3 +9,5 @@
 - ## [04_neural_network_foundation.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/04_neural_network_foundation.ipynb)
 
 - ## [05_neural_network.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/05_neural_network.ipynb)
+
+- ## [06_deep_neural_network.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/06_deep_neural_network.ipynb)

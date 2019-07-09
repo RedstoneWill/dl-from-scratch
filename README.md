@@ -6,4 +6,4 @@
 
 - ## [03_tensorflow_tutorial.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/03_tensorflow_tutorial.ipynb)
 
-- ## [04_logistic_regression.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/04_logistic_regression.ipynb)
+- ## [04_neural_network_foundation.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/04_neural_network_foundation.ipynb)

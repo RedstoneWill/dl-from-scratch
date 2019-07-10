@@ -11,3 +11,7 @@
 - ## [05_neural_network.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/05_neural_network.ipynb)
 
 - ## [06_deep_neural_network.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/06_deep_neural_network.ipynb)
+
+- ## [08_cnn_pytorch.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/08_cnn_pytorch.ipynb)
+
+- ## [08_cnn_tensorflow.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/08_cnn_tensorflow.ipynb)

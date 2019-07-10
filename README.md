@@ -15,3 +15,7 @@
 - ## [08_cnn_pytorch.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/08_cnn_pytorch.ipynb)
 
 - ## [08_cnn_tensorflow.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/08_cnn_tensorflow.ipynb)
+
+- ## [09_rnn_pytorch.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/09_rnn_pytorch.ipynb)
+
+- ## [09_rnn_tensorflow.ipynb](https://github.com/RedstoneWill/dl-from-scratch/blob/master/09_rnn_tensorflow.ipynb)
